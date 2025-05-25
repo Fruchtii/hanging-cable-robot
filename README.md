@@ -80,7 +80,7 @@ move_to_corner("bottom-right")
 get_current_position()
 Coordinate System
 
-![Coordinate System](images/coordinate_system.jpg)
+![Coordinate System](image/coordiante_system.jpg)
 
 Origin (0,0): Top-left corner
 X-axis: 0-700mm (left to right)
