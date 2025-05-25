@@ -80,16 +80,7 @@ move_to_corner("bottom-right")
 get_current_position()
 Coordinate System
 
-Top-Left (0,0) ----------- Top-Right (700,0)
-     |                              |
-     |         Robot Head           |
-     |            *                 |
-     |                              |
-     |                              |
-     |       Center (350,500)       |
-     |            *                 |
-     |                              |
-Bottom-Left (0,1000) ----- Bottom-Right (700,1000)
+![Coordinate System](images/coordinate_system.jpg)
 
 Origin (0,0): Top-left corner
 X-axis: 0-700mm (left to right)
